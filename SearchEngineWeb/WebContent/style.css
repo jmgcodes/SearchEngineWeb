@@ -1,0 +1,157 @@
+    body {
+    display: block;
+    background-attachment: none;
+    font-family: Georgia,'Times New Roman',times,serif;
+    }
+    
+    .user{
+    
+    font-size: 18px;
+    color: black;
+    text-align: right;
+    margin-right: 60px;
+    height:40px;
+    }
+    
+    #dp{
+    	
+    	margin: -10px;
+    	margin-left: 10px;
+    	height: 40px;
+    	width: 40px;
+    
+    }
+    
+    .titleMain{
+    
+    margin-top: 100px;
+    font-size: 86px;
+    color: #a52a2a;
+    
+    }
+    
+   .title{
+    
+    margin-top: 10px;
+    font-size: 56px;
+    color: #a52a2a;
+    
+    }
+    
+    
+    .tf {
+    
+    height: 30px;
+    width: 450px;
+    text-color: black;
+    font-size: 20px;
+    
+    }
+    
+    .btnSearch{
+    	
+    	margin-top: 10px;
+    	height: 40px;
+    	width: 130px;
+    	background-color: #a52a2a;
+        font-size: 26px;
+        color: white;
+    
+    }
+    
+    .btnSearchAnother{
+    	
+    	margin-top: 10px;
+    	height: 40px;
+    	width: 180px;
+    	background-color: #a52a2a;
+        font-size: 18px;
+        color:white;
+    
+    }
+
+
+    #search{
+    
+    float:left;
+    margin-left: 30px;
+    font-size: 24px;
+    color: #4d4d4d;
+    
+    }
+    
+        #noresult{
+    
+    font-size: 24px;
+    color: #4d4d4d;
+    
+    }
+    
+    
+     #pages{
+    
+    float:right;
+    margin-right: 30px;
+    font-size: 18px;
+    color: gray;
+    
+    }
+    
+    #space{
+    
+    clear:both;
+    }
+    
+    .resultsPar{
+    
+    clear:both;
+    
+    }
+    
+   .results{
+    
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 26px;
+    color: #0000ff;
+    word-wrap: break-word;    
+    
+    }
+    
+    .resultsLink{
+    
+    margin-top: -13px;
+    margin-left: 50px;
+    margin-rigt: 50px;
+    font-size: 18px;
+    color: #008000;
+    margin-bottom: 0px;
+    
+    }
+    
+    .preview{
+    
+        margin-top: 0px;
+    margin-left: 50px;
+    margin-rigt: 50px;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 25px;
+    height: auto;
+    
+    
+    }
+    
+    .nextbtn{
+    
+    	margin-left: 20px;
+    	margin-right:20px;
+    	height: 40px;
+    	width: 150px;
+    	background-color: #4d4d4d;
+    	color:white;
+        font-size: 26px;
+     
+    
+    }
