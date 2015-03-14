@@ -6,13 +6,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Googly</title>
+<title>HuDuKu</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <br>
 <p class = "user">Jwala Mohith Girisha <img id = "dp" src = "pic.jpg"/></p> 
-<center><h1 class = "titleMain">Googly</h1>
+<center><h1 class = "titleMain">HuDuKu</h1>
 <form action="Main.jsp" method="GET">
  <input class = "tf" type="text" name="search">
  <input type="hidden" name="page" value="0">

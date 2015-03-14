@@ -20,14 +20,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="style.css">
-<title>Googly</title>
+<title>HuDuKu</title>
 </head>
 <body>
 <form action="Search.jsp" method="GET">
 <input class = "btnSearchAnother" type="submit" value="Back to Search" />
 </form>
 
-<center><h1 class = "title">Googly</h1></center>
+<center><h1 class = "title">HuDuKu</h1></center>
 <br>
 <% out.println("<h3 id = \"search\">Results for \"" + request.getParameter("search") + "\"</h3>"); %>
 
